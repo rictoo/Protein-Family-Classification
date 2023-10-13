@@ -4,7 +4,7 @@ A deep learning-based approach to classify amino acid sequences into protein fam
 
 ## Dataset Overview
 
-The dataset in question comprised approximately 1 million amino acid sequences, each labelled with a specific protein class. In our analysis of the training data, we observed that the median sequence length stands at 119.0 amino acids. The labels in the training data encompassed 17,929 unique protein family classes, all of which are consistently labelled. No malformed sequences were identified. However, there were duplicated samples, which were subsequently removed. Moreover, some samples were found to be shared between the training and validation/test sets; these were removed from the latter.
+The dataset in question comprised approximately 1 million amino acid sequences, each labelled with a specific protein class. In our analysis of the training data, we observed that the median sequence length stands at 119.0 amino acids. The labels in the training data encompassed 17,929 unique protein family classes.
 
 ## Data Preprocessing
 
