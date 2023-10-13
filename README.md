@@ -13,5 +13,5 @@ The challenge was framed as a sequence classification problem, leading to the us
 ## Repository Structure
 
 - `src`: Contains the Jupyter notebook detailing the experiments and findings.
-- `models`: Contains the pre-trained tokeniser, LSTM and Transformer models.
+- `models`: Contains the trained tokeniser, LSTM and Transformer models.
 - `data`: The `data/unprocessed` directory is initially empty. To run the experiments, it expects the extracted PFam dataset from [this link](https://www.kaggle.com/datasets/googleai/pfam-seed-random-split). After downloading and extracting the dataset, place the `train`, `dev`, and `test` directories directly into the `data/unprocessed` directory.
