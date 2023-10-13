@@ -1,1 +1,1 @@
-Contains the pre-trained models and tokeniser.
+Contains the trained models and tokeniser.
