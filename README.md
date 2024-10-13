@@ -1,6 +1,6 @@
 # Protein Family Classification of Amino Acid Sequences
 
-A deep learning-based approach to classify amino acid sequences into protein families. This project leverages both Bidirectional LSTM and Transformer architectures to provide insights into sequence classification, data preprocessing, and model evaluation, focusing on the PFam dataset.
+A deep learning-based approach to classify amino acid sequences into protein families, utilising both Bidirectional LSTM and Transformer architectures, with a focus on the PFam dataset.
 
 ## Dataset Overview
 
